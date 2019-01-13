@@ -6,11 +6,11 @@
 
 类图：
 
-![](/Users/acer/project/design-pattern/屏幕快照 2019-01-12 19.44.06.png)
+![](屏幕快照_2019-01-12_19.44.06.png)
 
 时序图：
 
-![](/Users/acer/project/design-pattern/屏幕快照 2019-01-12 19.44.13.png)
+![](屏幕快照_2019-01-12_19.44.13.png)
 
 代码：
 

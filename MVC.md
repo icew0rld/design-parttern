@@ -6,7 +6,7 @@
 
 特指Web中的MVC。
 
-![](/Users/acer/project/design-pattern/屏幕快照 2019-01-13 16.26.50.png)
+![](屏幕快照_2019-01-13_16.26.50.png)
 
-![](/Users/acer/project/design-pattern/屏幕快照 2019-01-13 16.26.07.png)
+![](屏幕快照_2019-01-13_16.26.07.png)
 
