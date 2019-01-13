@@ -1,0 +1,17 @@
+# 抽象工厂模式
+
+定义：
+
+提供一个接口，用于创建相关或相互依赖对象的家族，而不需要明确指定具体类。
+
+类图：
+
+![](/Users/acer/project/design-pattern/屏幕快照 2019-01-12 16.38.13.png)
+
+代码：
+
+[AbstractFactory.java](./code/src/AbstractFactory.java)
+
+注：
+
+- 无他，一个接口，提供多个方法，每个方法产生一种对象。
